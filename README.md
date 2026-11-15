@@ -49,3 +49,23 @@ Streamlit Community Cloud keeps files on a temporary disk. When the app restarts
 for a long time and is rebuilt), classes and photos can disappear. That's why the **Backup**
 tab exists: download a backup after setting up a class and every few days, and press
 *Restore* if needed. For permanent storage you would need an external database.
+
+👨‍💻 Developer Details
+
+Developed By: Veera Purnima Venkata
+
+Project: Assignment Tracker
+
+Technology Stack:
+
+Python
+
+Streamlit
+
+SQLite
+
+Pandas
+
+HTML/CSS (Streamlit interface)
+
+Project Type: Web-Based Assignment Management System

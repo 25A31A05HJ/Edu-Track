@@ -55,16 +55,4 @@ Developed By: Veera Purnima Venkata
 
 Project: Assignment Tracker
 
-Technology Stack:
-
-Python
-
-Streamlit
-
-SQLite
-
-Pandas
-
-HTML/CSS (Streamlit interface)
-
 Project Type: Web-Based Assignment Management System

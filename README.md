@@ -4,7 +4,13 @@ Teachers fix the class list. Students open a link, pick their name, subject and
 assignment/test number (each subject has 5 assignments + 5 class tests), and upload
 a photo as proof. The teacher sees a ✅ next to each student and "submitted / total".
 
-No Java. Only Python + Streamlit, so it deploys straight from GitHub.
+ Only Python + Streamlit, so it deploys straight from GitHub.
+ ## 🌐 Live Demo
+
+**Try the Assignment Tracker online!**
+
+- **Live Application:** [https://assignment-tracker-9dzwdt73ppp89cmgav6s39.streamlit.app/](https://your-app-name.streamlit.app/)
+- **GitHub Repository:** [](https://github.com/your-username/your-repository)
 
 ## Files
 | File | Role |

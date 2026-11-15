@@ -9,7 +9,7 @@ a photo as proof. The teacher sees a ✅ next to each student and "submitted / t
 **Try the Assignment Tracker online!**
 
 - **Live Application:** [https://assignment-tracker-9dzwdt73ppp89cmgav6s39.streamlit.app/](https://your-app-name.streamlit.app/)
-- **GitHub Repository:** [https://github.com/25A31A05HJ/Assignment-Tracker](https://github.com/your-username/your-repository)
+- **GitHub Repository:** [https://github.com/25A31A05HJ/Edu-Track](https://github.com/your-username/your-repository)
 
 ## Files
 | File | Role |
